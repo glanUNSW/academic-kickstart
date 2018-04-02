@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. in Computer Science"
   institution = "University of New South Wales, Australia"
-  year = 2018 (expected)
+  year = 2018 
 
 [[education.courses]]
   course = "M.Sc. in Computer Science"
